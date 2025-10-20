@@ -1,0 +1,3 @@
+**Requirement Analysis in Software Development.**
+
+This repository outlines the steps involved in the requirement analysis of the Airbnb booking management system clone, emphasizing both the functional and non-functional requirements of the project. The goal of this analysis is to ensure a clear understanding of user needs and system expectations before the design and development phases begin. It also serves as a foundation for building a scalable, efficient, and user-friendly platform that mirrors real-world booking management systems.
