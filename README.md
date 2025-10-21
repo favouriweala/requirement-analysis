@@ -4,6 +4,7 @@ This repository outlines the steps involved in the requirement analysis of the A
 
 
 **What is Requirement Analysis?**
+
 Requirement Analysis is a critical phase in the Software Development Life Cycle (SDLC) where the project team identifies, gathers, and defines the needs and expectations of stakeholders for the software system to be developed. It serves as the foundation for all subsequent stages of development, ensuring that the final product aligns with the user’s goals and business objectives.
 
 During this phase, analysts, developers, and stakeholders collaborate to understand what the system should do and how it should perform. The process involves collecting requirements through techniques like interviews, surveys, brainstorming sessions, and document analysis. These requirements are then analyzed, categorized, and documented clearly for further use in design and development.
@@ -35,3 +36,27 @@ Identifying requirements at the start helps detect potential issues, conflicts, 
 3. Improves System Quality and User Satisfaction
 
 When requirements are well-defined and accurately documented, the development team can design a system that meets user needs more effectively. This leads to a higher-quality product that performs reliably and provides a better user experience.
+
+**Key Activities in Requirement Analysis.**
+
+The Requirement Analysis phase involves several structured activities to ensure that all user and business needs are clearly understood, documented, and validated before development begins. Below are the five key activities carried out during this stage:
+
+1. Requirement Gathering
+
+This involves collecting information about what the users and stakeholders expect from the system. Data is gathered through methods such as interviews, surveys, observations, and document reviews. The goal is to capture all possible needs and constraints that will shape the software.
+
+2. Requirement Elicitation
+
+In this step, deeper insights are obtained by engaging stakeholders to refine and clarify their needs. Techniques like brainstorming sessions, workshops, use case studies, and prototyping are used to uncover hidden or implicit requirements that may not have been initially stated.
+
+3. Requirement Documentation
+
+All gathered and elicited requirements are formally documented in clear, structured formats such as the Software Requirements Specification (SRS) document. This ensures that the requirements are accessible, understandable, and traceable throughout the development process.
+
+4. Requirement Analysis and Modeling
+
+Here, the documented requirements are analyzed for feasibility, consistency, and completeness. Modeling techniques like data flow diagrams, entity-relationship diagrams, and use case models are used to visualize and validate system functionality before implementation begins.
+
+5. Requirement Validation
+
+The final step ensures that all documented requirements accurately reflect stakeholder needs and are achievable within the project’s scope, time, and budget. This involves reviewing, inspecting, and validating requirements with stakeholders to confirm alignment and avoid misunderstandings later.
