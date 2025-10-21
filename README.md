@@ -141,3 +141,43 @@ Guides system design: Acts as a blueprint for defining interactions and relation
 **Use Case Diagram (Visual)**
 
 ![Use Case Diagram for Booking Management System](./alx-booking-uc.png)
+
+**Acceptance Criteria**
+**What is Acceptance Criteria?**
+
+Acceptance Criteria are the predefined conditions that a software feature must meet to be accepted by stakeholders or end users.
+They serve as a clear checklist of expectations that define what success looks like for each functionality within the system.
+
+In Requirement Analysis, acceptance criteria help ensure that both the development team and stakeholders share a common understanding of the feature’s behavior and outcome. They bridge the gap between business goals and technical implementation, providing measurable standards for validation and testing.
+
+**Importance of Acceptance Criteria**
+
+Ensures clarity: Clearly defines what needs to be achieved for a feature to be considered complete.
+
+Guides development and testing: Helps developers and QA teams know exactly what to build and test.
+
+Reduces misunderstandings: Aligns expectations between stakeholders, developers, and clients.
+
+Improves quality assurance: Prevents scope creep and ensures each feature delivers value to the end user.
+
+Supports user satisfaction: Guarantees that the delivered product meets user and business needs.
+
+Example: Acceptance Criteria for the “Checkout” Feature
+
+Feature: Checkout Process for Booking Management System
+
+**Acceptance Criteria:**
+
+The user must be logged in to complete a booking checkout.
+
+The system should display a summary of the booking (hotel name, room type, dates, and total cost).
+
+The user should be able to select a payment method (credit card, PayPal, etc.).
+
+The system must validate the payment details before processing the transaction.
+
+On successful payment, a confirmation message and booking ID should be displayed.
+
+The user should receive an email notification confirming the booking and payment.
+
+If payment fails, the system should show an error message and allow the user to retry or choose another method.
