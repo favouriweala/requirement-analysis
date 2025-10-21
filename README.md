@@ -60,3 +60,60 @@ Here, the documented requirements are analyzed for feasibility, consistency, and
 5. Requirement Validation
 
 The final step ensures that all documented requirements accurately reflect stakeholder needs and are achievable within the project’s scope, time, and budget. This involves reviewing, inspecting, and validating requirements with stakeholders to confirm alignment and avoid misunderstandings later.
+
+**Types of Requirements.**
+
+In software engineering, system requirements are generally categorized into Functional Requirements and Non-functional Requirements.
+Both are essential to ensure that the system performs as expected and delivers a smooth, reliable user experience. Below are their definitions and examples for the Booking Management System (similar to Airbnb, OYO, or Booking.com).
+
+**Functional Requirements**
+
+**Definition:**
+Functional requirements describe what the system should do.
+They define specific behaviors, actions, and functions that the software must perform to meet user and business needs.
+
+**Examples for the Booking Management Project:**
+
+User Authentication:
+The system should allow users (both customers and hotel managers) to register, log in, and log out securely.
+
+Hotel Listing Management:
+Hotel managers should be able to add, update, or delete hotel details, including room types, prices, and availability.
+
+Search and Filter Functionality:
+Customers should be able to search for hotels based on location, date, price range, and amenities.
+
+Booking and Payment Processing:
+Customers should be able to book available rooms and complete secure payments through integrated third-party payment services.
+
+View and Manage Bookings:
+Both customers and managers should be able to view, update, or cancel bookings from their respective dashboards.
+
+Notification System:
+The system should send notifications to customers and managers when bookings, updates, or offers occur.
+
+**Non-functional Requirements**
+
+**Definition:**
+Non-functional requirements describe how the system performs its functions.
+They define quality attributes such as performance, reliability, usability, scalability, and security that determine the system’s overall effectiveness.
+
+**Examples for the Booking Management Project:**
+
+Performance:
+The system should handle high user traffic efficiently through a microservice architecture and load balancers to ensure fast response times.
+
+Scalability:
+The system should be able to scale horizontally to accommodate an increasing number of users, hotels, and bookings.
+
+Reliability:
+The database should use a master-slave setup to ensure data consistency and availability even if one server fails.
+
+Security:
+All sensitive user data (login credentials, payment details) should be encrypted and transmitted securely.
+
+Availability:
+The system should be accessible 24/7 with minimal downtime, supported by distributed servers and caching (Redis, CDN).
+
+Usability:
+The interface should be intuitive and easy to navigate for both hotel managers and customers.
