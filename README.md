@@ -117,3 +117,27 @@ The system should be accessible 24/7 with minimal downtime, supported by distrib
 
 Usability:
 The interface should be intuitive and easy to navigate for both hotel managers and customers.
+
+**Use Case Diagrams.**
+
+**What is a Use Case Diagram?**
+
+A Use Case Diagram is a visual representation of how users (called actors) interact with a system to achieve specific goals.
+It shows the relationships between actors and the various system functionalities (use cases), providing a clear overview of what the system does from the user’s perspective.
+
+Use Case Diagrams are a key part of Requirement Analysis because they help in identifying user needs, system boundaries, and functional requirements.
+
+**Benefits of Use Case Diagrams**
+
+Simplifies understanding: Clearly illustrates system functionality in a visual and easy-to-understand format.
+
+Enhances communication: Serves as a bridge between technical and non-technical stakeholders.
+
+Identifies missing requirements: Helps ensure no major function or actor is overlooked.
+
+Guides system design: Acts as a blueprint for defining interactions and relationships between components.
+
+
+**Use Case Diagram (Visual)**
+
+![Use Case Diagram for Booking Management System](./assets/alx-booking-uc.png)
