@@ -140,4 +140,4 @@ Guides system design: Acts as a blueprint for defining interactions and relation
 
 **Use Case Diagram (Visual)**
 
-![Use Case Diagram for Booking Management System](./assets/alx-booking-uc.png)
+![Use Case Diagram for Booking Management System](./alx-booking-uc.png)
